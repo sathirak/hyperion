@@ -60,16 +60,16 @@ Visit http://localhost:3000 in your browser to access the application.
 
 ```
 
-##Usage
+## Usage
 This application demonstrates user authentication using Passport.js. Explore the codebase to understand the implementation details. Feel free to customize and extend it to suit your project requirements.
 
-##Resources
+## Resources
 
 For beginners, the following resources might be helpful:
 
 Passport.js Documentation => https://www.passportjs.org/docs/
 
-#Issues and Contributions
+## Issues and Contributions
 If you encounter any issues or have suggestions for improvement, please open an issue. Contributions are always welcome!
 
 Happy coding!
