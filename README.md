@@ -1,7 +1,17 @@
 # Hyperion Auth
 
+<p align="center"> 
+ <img src="https://octodex.github.com/images/Sentrytocat_octodex.jpg" width="400" width="400" /> 
+</p>
+
 Welcome to Hyperion! This application is designed to provide a hands-on experience for newbies looking to implement authentication in a web application using Passport.js, MySQL, and React.
 This repository is made so that newbies to Node.js or session/cookie authentication in general can get an idea of how the process works.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.thijs.gg/icons?i=react,nodejs,express,mysql&theme=dark&perline=6" />
+  </a>
+</p>
 
 ## Getting Started
 
